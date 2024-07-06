@@ -1,4 +1,4 @@
-![Screenshot (169)](https://github.com/Saravanan123456789/css-advanced-project/assets/127467412/0c8f90a9-1bd7-433c-9019-d18cb0ea9b6e)```
+```
 <!DOCTYPE html>
 <html>
 <head>
